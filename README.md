@@ -44,5 +44,5 @@ Based on https://help.github.com/articles/using-jekyll-with-pages/
 </a>
 
 </details>
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
